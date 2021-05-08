@@ -9,7 +9,7 @@
 ## 联系方式
 
 - 电话: **没有**
-- Site: **<shiniuniu.github.io>**
+- Site: **<https://shiniuniu.github.io>**
 
 <!-- .slide vertical=true -->
 
@@ -19,11 +19,9 @@
 
 <!-- .slide -->
 
-<!-- .slide -->
-
 ## Blogs
 
-- [第一篇博客]()
+- [开始](https://shiniuniu.github.io/_posts/start.md)
 
 <!-- .slide -->
 
@@ -31,4 +29,4 @@
 - 申请发邮件
 - 格式：申请友链
 -      网站：……
-## 请在已确保清晰可见情况下事情
+- 请在已确保友链清晰可见情况下申请
