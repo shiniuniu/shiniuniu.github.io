@@ -8,6 +8,8 @@
 
 - [免下载的王者荣耀，和平精英等](https://gamer.qq.com/v3/app/download?apk=1)
 
+<!-- .slide vertical=true -->
+
 # ISO区
 - Windows 10 Enterprise LTSC 2019 (x64) - DVD (Chinese-Simplified)
 - ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso|4478906368|E7C526499308841A4A6D116C857DB669|/
