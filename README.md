@@ -13,7 +13,7 @@
 ## 联系方式
 
 - 电话: **没有**
-- Site: **<https://shiniuniu.github.io>**
+- 网站: **<https://shiniuniu.github.io>**
 
 <!-- .slide vertical=true -->
 
