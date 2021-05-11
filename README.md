@@ -6,7 +6,7 @@
 - 星座：水瓶座
 - 年级：五年级
 
-[Resume]
+- [免下载的王者荣耀，和平精英等](https://gamer.qq.com/v3/app/download?apk=1)
 
 <!-- .slide -->
 
