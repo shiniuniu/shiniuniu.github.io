@@ -24,7 +24,7 @@
 
 ## Blogs
 
-- [开始](https://shiyusen.tk/_posts/2021-05-08-start.md)
+- [开始](https://shiyusen.tk/_posts/2021-05-08-start/)
 
 <!-- .slide -->
 
