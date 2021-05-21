@@ -12,7 +12,7 @@
 ## 联系方式
 
 - 电话: **没有**
-- 网站: **<https://shiniuniu.github.io>**
+- 网站: **<shiyusen.tk>**
 
 <!-- .slide vertical=true -->
 
