@@ -24,7 +24,7 @@
 
 ## Blogs
 
-- [开始](https://shiniuniu.github.io/_posts/start.md)
+- [开始](https://shiyusen.tk/_posts/start.md)
 
 <!-- .slide -->
 
