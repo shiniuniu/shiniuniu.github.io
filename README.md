@@ -2,11 +2,10 @@
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
 
-- 年龄：12 years old
-- 星座：水瓶座
+- 年龄：12 周岁
 - 年级：五年级
 
-- [点我](https://gamer.qq.com/v3/app/download?apk=1)
+- [点我](https://www.baidu.com)
 
 <!-- .slide vertical=true -->
 
@@ -31,4 +30,4 @@
 
 ## 友链
 
-- 暂无友链
+<a href="https://zkxblog.xyz" target="_blank">Zhang的个人分享网站</a>
