@@ -53,11 +53,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="shiyusen.tk/F81F1D9A-96A6-45B8-B975-67935733266C.jpg"
+                href="shiyusen.tk/F81F1D9A-96A6-45B8-B975-67935733266C_gaitubao_320x320.jpg"
               />
               <link
                 rel="shortcuticon"
-                href="shiyusen.tk/F81F1D9A-96A6-45B8-B975-67935733266C.jpg"
+                href="shiyusen.tk/F81F1D9A-96A6-45B8-B975-67935733266C_gaitubao_32x32.jpg"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
