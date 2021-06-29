@@ -7,7 +7,7 @@
 - 所在地：安徽合肥
 - 本站维护中……
 
-- [小学生绿色发展指标评价测试查分](http://jypj.hfjyyun.net.cn/)
+- [小学生发展绿色指标评价测试查分](http://jypj.hfjyyun.net.cn/)
 
 <!-- .slide vertical=true -->
 
