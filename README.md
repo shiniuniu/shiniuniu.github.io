@@ -6,7 +6,6 @@
 - 年级：五年级
 - 所在地：安徽合肥
 - 本站维护中……
-- [照片](http://shiyusen.tk/YLWJ/D4AC1CCC-C04D-4225-B1D2-F9D24625351F.jpeg)
 
 - [小学生发展绿色指标评价测试查分](http://jypj.hfjyyun.net.cn/)
 
