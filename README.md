@@ -33,9 +33,9 @@
 ## 友链
 
 <a href="https://zkxblog.xyz" target="_blank">Zhang的个人分享网站
-</a>
+</div>
 <a href="https://diamondda.github.io/" target="_blank">DiamondDA's Notebook
-</a>
+
 
 
 <!-- .slide vertical=true -->
