@@ -1,7 +1,7 @@
 title: Yusen blog # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   石头China<br/>
-  五年级<br/>
+  六年级<br/>
   小学生<br/>
   的blog<br/>
   <a href="mailto:1925903186@qq.com">
@@ -9,17 +9,17 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   </a>
   <a href="https://github.com/shiniuniu">
     <i class="fab fa-github"></i>
-  </a>
-  </a>
-  <iframe
-    src="http://shiyusen.tk/YLWJ/1863466282.mp3"
-    width=100%
-    height=52
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-  ></iframe>
+#  </a>
+#  </a>
+#  <iframe
+#    src="http://shiyusen.tk/YLWJ/1863466282.mp3"
+#    width=100%
+#    height=52
+#    frameborder="no"
+#    border="0"
+#    marginwidth="0"
+#    marginheight="0"
+#  ></iframe>
 url: https://shiniuniu.github.io # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
