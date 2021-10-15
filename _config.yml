@@ -1,8 +1,8 @@
 title: Yusen blog # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   石头China<br/>
-  六年级<br/>
-  小学生<br/>
+  SYS<br/>
+  2009<br/>
   的blog<br/>
   <a href="mailto:1925903186@qq.com">
     <i class="fas fa-envelope"></i>
@@ -406,13 +406,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - | # Copyright声明
                 <div>
                   <i class="fas fa-copyright fa-fw"></i>
-                  2021 石头China
+                  2021 Yusen Shi
                 </div>
               - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
                 <div>
-                  <a href="https://icp.gov.moe" target="_blank">萌ICP备 
+                  <a href="https://shiyusen.tk" target="_blank">老子我
                   </a>
-                  <a href="https://icp.gov.moe/?keyword=20212110" target="_blank"> 20212110号
+                  <a href="https://shiyusen.tk/buBeiAn" target="_blank"> 就不备案！！！
                   </a>
                 </div>
             wordcount: # 全站字数统计
