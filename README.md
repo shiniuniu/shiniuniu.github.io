@@ -5,6 +5,9 @@
 - 所在地：安徽合肥
 - 本站维护中……
 - 发现任何违规内容，请联系站长
+
+<!-- .slide vertical=true -->
+
 ![avatar](https://shiyusen.tk/YLWJ/F3FE3500-5B87-4C78-8E9E-0CC5076B9983.png)
 
 <!-- .slide vertical=true -->
