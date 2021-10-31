@@ -19,6 +19,11 @@
 
 <!-- .slide vertical=true -->
 
+- 微信: 
+![avatar](https://shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)
+
+<!-- .slide vertical=true -->
+
 - 电子邮箱:
   - **[1925903186@qq.com](mailto:1925903186@qq.com)**
 - 微信: **没有 添加情况：Never!**
