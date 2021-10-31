@@ -611,7 +611,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             enable: false
         merger: # 打赏页，需要配置！
           append_to_head:
-            - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
+            - |
               <script>
                 var myname = "Shi Yusen";
                 var profile = "1925903186@qq.com";
