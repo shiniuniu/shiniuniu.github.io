@@ -28,8 +28,8 @@
 
 ## Blogs
 
-- [开始](https://elegant-franklin-fff25b.netlify.app/_posts/2021-05-08-start/)
-- [小学生发展绿色指标评价测试（教程向）](https://elegant-franklin-fff25b.netlify.app/_posts/2021-06-28-jc001/)
+- [开始](https://shiyusen.tk/_posts/2021-05-08-start/)
+- [小学生发展绿色指标评价测试（教程向）](https://shiyusen.tk/_posts/2021-06-28-jc001/)
 
 <!-- .slide -->
 
