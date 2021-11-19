@@ -8,10 +8,6 @@
 
 <!-- .slide vertical=true -->
 
-![avatar](https://elegant-franklin-fff25b.netlify.app/YLWJ/F3FE3500-5B87-4C78-8E9E-0CC5076B9983.png)
-
-<!-- .slide vertical=true -->
-
 ## 联系方式
 
 - 电话: **没有**
