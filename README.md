@@ -1,4 +1,4 @@
-# 石头China
+# Shi Yusen
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
 
@@ -11,25 +11,25 @@
 ## 联系方式
 
 - 电话: **没有**
-- 网站: **<https://shiyusen.tk>**
+- 网站: **<https://blog.shiyusen.tk>**
 
 <!-- .slide vertical=true -->
 
 - 微信: 
-![avatar](https://shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)
+![avatar](https://blog.shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)
 
 <!-- .slide vertical=true -->
 
 - 电子邮箱:
   - **[1925903186@qq.com](mailto:1925903186@qq.com)**
-- 微信: **[QR code](https://shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)**
+- 微信: **[QR code](https://blog.shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)**
 
 <!-- .slide -->
 
 ## Blogs
 
-- [开始](https://shiyusen.tk/_posts/2021-05-08-start/)
-- [小学生发展绿色指标评价测试（教程向）](https://shiyusen.tk/_posts/2021-06-28-jc001/)
+- [开始](https://blog.shiyusen.tk/_posts/2021-05-08-start/)
+- [免责声明](https://blog.shiyusen.tk/_posts/mianze/)
 
 <!-- .slide -->
 
