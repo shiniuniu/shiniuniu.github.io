@@ -29,7 +29,7 @@
 ## Blogs
 
 - [开始](https://blog.shiyusen.tk/_posts/2021-05-08-start/)
-- [免责声明](https://blog.shiyusen.tk/_posts/mianze/)
+- [免责声明](https://blog.shiyusen.tk/_posts/1970-01-01-mianze/)
 
 <!-- .slide -->
 
