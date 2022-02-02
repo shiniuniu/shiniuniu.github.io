@@ -5,6 +5,8 @@
 - 所在地：安徽合肥
 - 本站维护中……
 - 发现任何违规内容，请联系站长
+- 站长邮箱: admin@shiyusen.tk
+（感谢Cloudflare Enterprise计划提供CDN支持）
 
 <!-- .slide vertical=true -->
 
@@ -21,7 +23,7 @@
 <!-- .slide vertical=true -->
 
 - 电子邮箱:
-  - **[1925903186@qq.com](mailto:1925903186@qq.com)**
+  - **[admin@shiyusen.tk](mailto:admin@shiyusen.tk)**
 - 微信: **[QR code](https://blog.shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)**
 
 <!-- .slide -->
