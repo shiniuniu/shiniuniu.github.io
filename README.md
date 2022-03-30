@@ -23,7 +23,7 @@
 <!-- .slide vertical=true -->
 
 - 电子邮箱:
-  - **[admin@shiyusen.tk](mailto:admin@shiyusen.tk)**
+  - **[shiyusen@shiyusen.tk](mailto:shiyusen@shiyusen.tk)**
 - 微信: **[QR code](https://blog.shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)**
 
 <!-- .slide -->
