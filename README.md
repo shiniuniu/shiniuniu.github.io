@@ -18,13 +18,13 @@
 <!-- .slide vertical=true -->
 
 - 微信: 
-![avatar](https://blog.shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)
+![avatar](https://stonechina-my.sharepoint.com/personal/stonechina_stonechina_onmicrosoft_com/Documents/Blog/QRCODE.png?ga=1)
 
 <!-- .slide vertical=true -->
 
 - 电子邮箱:
   - **[shiyusen@shiyusen.tk](mailto:shiyusen@shiyusen.tk)**
-- 微信: **[QR code](https://blog.shiyusen.tk/YLWJ/4D7135BB-9D83-49FF-9F5C-9D58A50B0880.jpeg)**
+- 微信: **[QR code](https://stonechina-my.sharepoint.com/personal/stonechina_stonechina_onmicrosoft_com/Documents/Blog/QRCODE.png?ga=1)**
 
 <!-- .slide -->
 
