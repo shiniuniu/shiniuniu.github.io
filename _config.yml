@@ -1,13 +1,13 @@
 title: Yusen blog # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  来是偶然，<br/>
-  去是必然，<br/>
-  尽其当然，<br/>
-  顺其自然。 <br/>
-  <a href="mailto:1925903186@qq.com">
+  来是偶然<br/>
+  去是必然<br/>
+  尽其当然<br/>
+  顺其自然<br/>
+  <a href="mailto:shiyusen@shiyusen.tk">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/shiniuniu">
+  <a href="https://github.com/">
     <i class="fab fa-github"></i>
   </a>
   </a>
