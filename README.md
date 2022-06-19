@@ -13,25 +13,24 @@
 ## 联系方式
 
 - 电话: **没有**
-- 网站: **<https://blog.shiyusen.tk>**
+- 网站: **<https://blog.shiyusen.eu.org>**
 
 <!-- .slide vertical=true -->
 
-- 微信: 
-![avatar](https://stonechina-my.sharepoint.com/personal/stonechina_stonechina_onmicrosoft_com/Documents/Blog/QRCODE.png?ga=1)
+- 微信:
 
 <!-- .slide vertical=true -->
 
 - 电子邮箱:
-  - **[shiyusen@shiyusen.tk](mailto:shiyusen@shiyusen.tk)**
+  - **[1925903186@qq.com](mailto:1925903186@qq.com)**
 - 微信: **[QR code](https://stonechina-my.sharepoint.com/personal/stonechina_stonechina_onmicrosoft_com/Documents/Blog/QRCODE.png?ga=1)**
 
 <!-- .slide -->
 
 ## Blogs
 
-- [开始](https://blog.shiyusen.tk/_posts/2021-05-08-start/)
-- [免责声明](https://blog.shiyusen.tk/_posts/1970-01-01mianze/)
+- [开始](/_posts/2021-05-08-start/)
+- [免责声明](/_posts/1970-01-01mianze/)
 
 <!-- .slide -->
 
