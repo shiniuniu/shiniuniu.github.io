@@ -5,8 +5,8 @@
 - 所在地：安徽合肥
 - 本站维护中……
 - 发现任何违规内容，请联系站长
-- 站长邮箱: shiyusen@shiyusen.tk
-（感谢[Office365](https://www.office.com/)提供支持）
+- Blog: https://blog.shiyusen.eu.org
+（感谢[EU.org](https://nic.eu.org)提供支持）
 
 <!-- .slide vertical=true -->
 
