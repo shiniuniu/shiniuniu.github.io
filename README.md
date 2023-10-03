@@ -3,7 +3,8 @@
 欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
 
 - 所在地：安徽合肥
-- 本站维护中……
+- 学校：合肥市五十中学东校望江路校区
+- (Hefei No.50 East Middle School)
 - 发现任何违规内容，请联系站长
 - Blog: https://blog.shiyusen.eu.org
 （感谢[EU.org](https://nic.eu.org)提供支持）
