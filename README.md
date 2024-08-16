@@ -1,8 +1,7 @@
 # Shi Yusen
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
+欢迎访问我的个人主页！
 
-- 所在地：安徽合肥
 - Blog: https://blog.shiyusen.eu.org
 
 <!-- .slide vertical=true -->
